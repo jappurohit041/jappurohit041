@@ -11,7 +11,6 @@
 -  🔎 I'm currentl open for internships  and jobs
 - 👯 I’m looking to collaborate webDEsigners and Developers
 - 🥅 2021 Goals: Become A full Stack developer | Embrace my Soft-Skills
-- ⚡ Fun fact: I love to play Cricket and Gyming
 
 ---
 
@@ -89,7 +88,7 @@
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/jappurohit041/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=MitanshGor&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=jappurohit041&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
   </a>
 
 </details>
