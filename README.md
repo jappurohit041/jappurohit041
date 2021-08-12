@@ -68,7 +68,7 @@
 
 ---
 
-<img align="left" alt="idk" src="https://github-readme-stats.vercel.app/api?username=MitanshGor&show_icons=true&hide_border=true&theme=radical">
+<img align="left" alt="idk" src="https://github-readme-stats.vercel.app/api?username=jappurohit041&show_icons=true&hide_border=true&theme=radical">
 
 
 <br>
