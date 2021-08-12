@@ -5,7 +5,7 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 
-## I'm a Student, Freelancer, WebDesigner, WebDeveloper, Mentor, and Teacher!!
+## I'm a Student, Freelancer, WebDeveloper, Software Developer, Mentor, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
 -  🔎 I'm currentl open for internships  and jobs
