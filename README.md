@@ -1,4 +1,4 @@
-### Hi there, I'm Mitansh Gor  👋
+### Hi there, I'm Jap Purohit  👋
 <!-- BLOG-POST-LIST:START -->
 
 
