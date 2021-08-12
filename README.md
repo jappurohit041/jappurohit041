@@ -97,10 +97,10 @@
 <img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
 
 
-[website]: https://github.com/MitanshGor
+[website]: https://github.com/jappurohit041
 [whatsapp]: whatsapp
 [mail]:mail
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: www.linkedin.com/in/jap-purohit
 
 
 
