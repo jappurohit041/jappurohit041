@@ -100,4 +100,4 @@
 [website]: https://github.com/jappurohit041
 [whatsapp]: whatsapp
 [mail]:mail
-[linkedin]: www.linkedin.com/in/jap-purohit
+[linkedin]: https://www.linkedin.com/in/jap-purohit/
