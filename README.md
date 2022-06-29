@@ -75,8 +75,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-latex-05122A?style=flat&logo=latex)
 ![Microsoft](https://img.shields.io/badge/Microsoft-05122A?style=flat&logo=microsoft)&nbsp;
-
-
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=Raspberry-Pi)&nbsp;
+![Ardiuno](https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino&logoColor=white)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
