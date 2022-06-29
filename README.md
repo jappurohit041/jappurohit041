@@ -66,7 +66,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-05122A?style=flat&logo=intellij-idea)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;\
 ![Atom](https://img.shields.io/badge/Atom-05122A?style=flat&logo=atom)&nbsp;
 ![Spyder](https://img.shields.io/badge/Spyder-05122A?style=flat&logo=spyder%20ide)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-05122A?style=flat&logo=pycharm)&nbsp;
