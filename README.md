@@ -13,7 +13,7 @@
 ✉️ &nbsp;You can shoot me an email at pjap041@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9f56d629403431.56bf41038c8b0.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ##### Technology and Language
