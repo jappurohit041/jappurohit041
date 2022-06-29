@@ -49,14 +49,15 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=google-cloud)&nbsp;
 ![Heroku](https://img.shields.io/badge/-heroku-05122A?style=flat&logo=heroku)&nbsp;
-![Netlify](https://img.shields.io/badge/netlify-05122A?style=flat&logo=netlify)
+![Netlify](https://img.shields.io/badge/Netlify-05122A?style=flat&logo=netlify)
 #### Operating Systems
 ![IOS](https://img.shields.io/badge/iOS-05122A?style=flat&logo=ios)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Mac OS](https://img.shields.io/badge/mac%20os-05122A?style=flat&logo=macos)&nbsp;
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-05122A?style=flat&logo=redhat)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)
+![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)&nbsp;
+![Android](https://img.shields.io/badge/Android-05122A?style=flat&logo=android)
 #### Other Technologies
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
