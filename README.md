@@ -26,7 +26,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;\
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery)&nbsp;
-![Microsoft](https://img.shields.io/badge/Microsoft-05122A?style=flat&logo=microsoft)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-05122A?style=flat)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -50,13 +49,23 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=google-cloud)&nbsp;
 ![Heroku](https://img.shields.io/badge/-heroku-05122A?style=flat&logo=heroku)&nbsp;
-## Other Technologies
+#### Operating Systems
+![IOS](https://img.shields.io/badge/iOS-05122A?style=flat&logo=ios)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
+![Mac OS](https://img.shields.io/badge/mac%20os-05122A?style=flat&logo=macos)&nbsp;
+![Red Hat](https://img.shields.io/badge/Red%20Hat-05122A?style=flat&logo=redhat)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows)
+#### Other Technologies
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Tomcat](https://img.shields.io/badge/-Tomcat-05122A?style=flat&logo=tomcat)&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-latex-05122A?style=flat&logo=latex)
+![Microsoft](https://img.shields.io/badge/Microsoft-05122A?style=flat&logo=microsoft)&nbsp;
 
 
 
