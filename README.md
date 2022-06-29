@@ -49,6 +49,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=google-cloud)&nbsp;
 ![Heroku](https://img.shields.io/badge/-heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Netlify](https://img.shields.io/badge/netlify-05122A?style=flat&logo=netlify)
 #### Operating Systems
 ![IOS](https://img.shields.io/badge/iOS-05122A?style=flat&logo=ios)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)&nbsp;
@@ -62,9 +63,17 @@
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-05122A?style=flat&logo=intellij-idea)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
+![Atom](https://img.shields.io/badge/Atom-05122A?style=flat&logo=atom)&nbsp;
+![Spyder](https://img.shields.io/badge/Spyder-05122A?style=flat&logo=spyder%20ide)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-05122A?style=flat&logo=pycharm)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-latex-05122A?style=flat&logo=latex)
 ![Microsoft](https://img.shields.io/badge/Microsoft-05122A?style=flat&logo=microsoft)&nbsp;
+
 
 
 
