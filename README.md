@@ -45,8 +45,14 @@
 ### 💾 &nbsp;Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)
-### ⚙️ &nbsp;GitHub Analytics
+![AmazonDynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-05122A?style=flat&logo=Amazon%20DynamoDB)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)
+![Postgres](https://img.shields.io/badge/-postgres-05122A?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)
+![Orcale](https://img.shields.io/badge/-orcale-05122A?style=flat&logo=orcale)
 
+
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/jappurohit041">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jappurohit041&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
