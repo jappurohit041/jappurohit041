@@ -42,6 +42,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![LaTeX](https://img.shields.io/badge/-latex-05122A?style=flat&logo=latex)
 
+### 💾 &nbsp;Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
