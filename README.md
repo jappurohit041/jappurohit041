@@ -39,9 +39,15 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![AmazonDynamoDB](https://img.shields.io/badge/-Amazon%20DynamoDB-05122A?style=flat&logo=Amazon%20DynamoDB)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
-![Postgres](https://img.shields.io/badge/-postgres-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;
+![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle)\
+![AWS](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![Azure](https://img.shields.io/badge/azure-05122A?style=flat&logo=microsoftazure)&nbsp;
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-05122A?style=flat&logo=digitalOcean)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase05122A?style=flat&logo=firebase)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-05122A?style=flat&logo=google-cloud)&nbsp;
+![Heroku](https://img.shields.io/badge/heroku-05122A?style=flat&logo=heroku)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
