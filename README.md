@@ -36,7 +36,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Spring Tool Suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-05122A?style=flat&logo=spring-tool-suite&logoColor=007ACC)&nbsp;
+![Spring Tool Suite](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)
 
