@@ -54,7 +54,7 @@
 <a href="https://linkedin.com/in/jap-purohit"><img src="https://img.shields.io/badge/-Jap%20%20Purohit-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pjap041@gmail.com"><img src="https://img.shields.io/badge/-pjap041@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/jappurohit041"><img src="https://img.shields.io/badge/-@jappurohit041-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/jap.purohit"><img src="https://img.shields.io/badge/-@jap.purohit-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----
