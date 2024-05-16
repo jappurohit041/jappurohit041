@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Ahmedabad University.\
+🎓 &nbsp;I have pursued my Bachelor of Technology in Computer Science and Engineering from Ahmedabad University with minors in Business Analytics. Academic Year (2019-23).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I pursue Sharing Knowledge to others in various forms [Teaching, Blogs] and Designing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
@@ -99,4 +99,4 @@
 
 -----
 
-Last Edited on: 29/06/2022
+Last Edited on: 16/05/2024
