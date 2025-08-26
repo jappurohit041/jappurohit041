@@ -7,11 +7,12 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I have pursued my Bachelor of Technology in Computer Science and Engineering from Ahmedabad University with minors in Business Analytics. Academic Year (2019-23).\
+🎓 &nbsp;I am currently pursuing my Masters of Computer Science from North Carolina State University. Academic Year (2024-26).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I pursue Sharing Knowledge to others in various forms [Teaching, Blogs] and Designing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at pjap041@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](#) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1CVxY9frFYfvPQilEA94TUNIXv5RlhmIv/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="./assets/select_gif.gif" width='250' height='200' align="right"/>
 
@@ -99,4 +100,4 @@
 
 -----
 
-Last Edited on: 16/05/2024
+Last Edited on: 26/08/2025
